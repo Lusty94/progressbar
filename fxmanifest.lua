@@ -2,8 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author "Lusty94"
-description 'Dependency for creating progressbars in QB-Core.'
-version '1.0.0'
+description 'progressbar for qb-core with rounded profile and blue colour scheme'
 
 ui_page "html/index.html"
 
