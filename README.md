@@ -1,5 +1,5 @@
 # Progressbar
-Progressbar with a rounded profile and a blue colour scheme by Lusty94 - Credits to original creators I just reskinned it.
+Progressbar with a rounded profile and a blue colour scheme  - Credits to original creators I just reskinned it.
 
 
 ![image](https://user-images.githubusercontent.com/108025667/229637622-f134ec89-1894-4227-8f2f-dd854e52e908.png)
